@@ -30,7 +30,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/WeatherAPP.git
+git clone https://github.com/cebete/WeatherAPP.git
 cd WeatherAPP
 ```
 
